@@ -8,4 +8,4 @@ Have fun exploring GitHub to the fullest extent.
 ## For Developers
 Keep up the excellent work and never lose your passion.
 
-&copy 2023 Stanley Salim
+&copy; 2023 Stanley Salim
